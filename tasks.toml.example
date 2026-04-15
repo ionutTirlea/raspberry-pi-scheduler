@@ -1,0 +1,9 @@
+[[task]]
+name = "check_temperature"
+schedule = "0 */5 * * * *"
+command = "/opt/plugins/check_temperature"
+
+[[task]]
+name = "water_plants"
+schedule = "0 0 8 * * *"
+command = "/opt/plugins/water_plants"

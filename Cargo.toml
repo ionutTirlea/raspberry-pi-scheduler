@@ -1,0 +1,10 @@
+[package]
+name = "raspberry-pi-scheduler"
+version = "0.0.1"
+edition = "2024"
+
+[dependencies]
+cron = "0.16.0"
+chrono = "0.4.44"
+toml = "0.8"
+serde = { version = "1", features = ["derive"] }

@@ -1,0 +1,4 @@
+[[task]]
+name = "hello"
+schedule = "* * * * * *"
+command = "echo"

@@ -48,3 +48,8 @@ cargo build --release --target armv7-unknown-linux-gnueabihf
 ```
 
 Then copy the binary and `tasks.toml` to the Pi.
+
+## License
+
+This project is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for details.

@@ -2,6 +2,7 @@
 name = "raspberry-pi-scheduler"
 version = "0.0.1"
 edition = "2024"
+license = "MIT"
 
 [dependencies]
 cron = "0.16.0"
